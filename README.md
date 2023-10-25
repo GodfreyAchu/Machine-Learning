@@ -1,7 +1,7 @@
 ## Machine-Learning
 ---
 Machine learning algorithms
-This folder contains the major algorithms and its implementation 
+This folder contains the major algorithms and they are implemented in google colab. 
 1. KNN
 2. Linear Regression
 3. Logistic Regression
