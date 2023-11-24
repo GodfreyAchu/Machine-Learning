@@ -9,3 +9,4 @@ This folder contains the major algorithms and they are implemented in google col
 5. Performance Metrix
 6. Principal Component Analysis
 7. Support Vector Machine
+   
