@@ -11,4 +11,5 @@ This folder contains the major algorithms and they are implemented in google col
 7. Support Vector Machine
 8. Random Forest
 9. Decision Tree
-10. ANN  
+10. ANN
+11. Cross Validation  
