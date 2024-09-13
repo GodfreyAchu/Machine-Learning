@@ -1,11 +1,11 @@
 ## Machine-Learning
----
-
 This folder contains the primary machine learning algorithms, each implemented in Google Colab for practical application and experimentation. The following algorithms and techniques are included:
 
 1.K-Nearest Neighbors (KNN): A simple, instance-based learning algorithm used for classification and regression.
+
 2.Linear Regression: A basic algorithm that models the relationship between a dependent variable and one or more independent variables.
-Logistic Regression: A statistical model used for binary classification problems.
+
+3.Logistic Regression: A statistical model used for binary classification problems.
 Naive Bayes: A probabilistic classifier based on Bayes' theorem, suitable for text classification and other tasks.
 Performance Metrics: Evaluation tools to measure the accuracy and effectiveness of machine learning models, including precision, recall, F1-score, and more.
 Principal Component Analysis (PCA): A dimensionality reduction technique that transforms data into a set of uncorrelated variables called principal components.
